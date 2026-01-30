@@ -1,1 +1,1 @@
-![Marketing Analytics](https://github.com/user-attachments/assets/50f46db0-e752-40c7-a2c0-c1f4952073f9)
+![Olist_GIF](https://github.com/user-attachments/assets/e58ec11e-49f4-4abf-8f12-dd24cc4115c9)
