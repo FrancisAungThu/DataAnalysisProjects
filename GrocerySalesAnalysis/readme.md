@@ -16,13 +16,13 @@
 - [Recommendation](#recommendation)
 
 
-## Executive Summary
+## 1. Executive Summary
 This project shows how data can help a grocery store understand its customers better and make smarter decisions about products and pricing. I built a three‑dimensional customer segmentation model using RFM, profitability, and price sensitivity to see who shops most often, who brings the most value, and who responds well to promotions. I also analysed product performance across the store, including sales, margins, buying patterns, market basket behaviour, and optimal pricing. Together, these insights highlight which customers matter most, which products drive value, and where pricing changes can boost both revenue and footfall. One clear example is **Raisin Muffins**: treating them as a flagship product and investing in their price can increase visits and basket size. Combined with better inventory planning, stronger retention, and targeted win‑back strategies, the store can grow revenue more effectively.
 
-## Dataset Summary
+## 2. Dataset Summary
 This grocery store dataset contains multiple linked tables covering sales, customers, products, and employees from Jan 2023 to Dec 2024. 
 
-## Business Problem, Objectives & Scope
+## 3. Business Problem, Objectives & Scope
 ### Business Problem
 Grocery retailer often struggle to make data-driven decisions about customer retention, product strategy, and pricing. Without a clear understanding of customer behaviour, sentiment, and product performance, the business faces challenges such as:
 
@@ -112,4 +112,147 @@ This distribution highlights three strategic priorities:
 ![Product Category Performance](Assets/7.png)
 
 Product performance analysis ordered by sales contribution reveals a highly concentrated revenue structure. A tier products account for the majority of total sales and represent the core assortment that drives business performance. B tier products provide essential support by increasing basket size and enabling cross sell opportunities. C tier products contribute minimally and represent candidates for SKU rationalisation. This ABC classification provides a clear roadmap for inventory optimisation, pricing strategy, and promotional prioritisation.
+
+#### 📦 Inventory Planning:  Prioritise Items ABC Classification
+
+![Inventory Planning](Assets/8.png)
+
+The ABC structure makes it clear that inventory investment should not be evenly distributed. Category A requires protection and precision, Category B requires balance, and Category C requires discipline. Optimising inventory along these lines improves service levels where it matters most, reduces waste where it matters least, and strengthens both profitability and operational efficiency. **Not all products deserve equal investment**.
+
+#### Product Affinity: Top Segment (Premium Bargain Hunter)
+
+![Product Affinity](Assets/9.png)
+
+Product affinity analysis for the Premium Bargain Hunter segment highlights a small set of products that consistently drive both revenue and engagement. These items reveal strong loyalty, predictable buying patterns, and multi-category shopping behaviour.
+
+#### Product Penetration: Top Segment (Premium Bargain Hunter)
+
+![Product Penetration](Assets/10.png)
+
+Sauerkraut’s penetration is 8.6% lower than Red Lentils, yet it generates roughly 50% more revenue. This indicates a high value product with strong spending behaviour among existing buyers. Because of this imbalance—low reach but high revenue—Sauerkraut represents a clear opportunity to increase penetration and drive incremental profit for the store.
+
+####  Price Sensitivity Simulation
+![Product Penetration](Assets/11.png)
+
+#### Market Basket Analysis
+![Product Penetration](Assets/12.png)
+
+**Pastry – Raisin Muffin** stands out as a high‑velocity product: it represents only 1.41% of sales value but nearly 57% of total units sold, making it one of the strongest volume drivers in the store. Price‑elasticity modelling shows that a 9.3% price reduction would lift demand by 53%, adding roughly 17,237 extra units. The cost of doing so is very small—only £65.96 in margin.
+Because this product appears in so many baskets, the margin reduction isn’t a loss; it’s a deliberate investment in traffic and basket growth. Customers who buy Raisin Muffins tend to buy other items alongside them, so increasing muffin volume increases overall store revenue, not just sales of the product itself. A small, controlled price adjustment on a high‑penetration item becomes a way to drive more visits, larger baskets, and stronger customer engagement across categories.
+
+
+## 8. Recommendations
+
+### 8.1 Invest in Pastry — Raisin Muffin as the Store’s Flagship Product
+**Raisin Muffins** are a high‑velocity, high‑basket product. A small **9.3% price reduction** unlocks a **53% volume lift** at a cost of just **£65.96**, making this a high‑leverage pricing decision. Treating Raisin Muffins as a flagship product can increase store traffic, grow basket size, and lift overall revenue.
+
+---
+
+### 8.2 Strengthen Retention for High‑Value Customer Segments
+High‑value customers drive a disproportionate share of revenue and require proactive retention.
+
+**Actions**
+- Build personalised retention journeys for the top three customer segments.
+- Trigger alerts when high‑value customers reach **30+ days of inactivity**.
+- Deploy targeted win‑back campaigns within the **31–60 day** window.
+
+**Expected Impact**
+- Lower churn among the most profitable customers.
+- Higher repeat purchase frequency.
+- Improved customer lifetime value.
+- Direct contribution to the goal of **reducing churn by 5% within 12 months**.
+---
+### 8.3 Churn Reduction Action Plan
+
+#### 1. Strengthen Early‑Stage Retention (First 30 Days)
+Customers who do not return within the first month represent the largest source of churn.
+
+**Actions**
+- Create a structured **New Customer Pathway** with touchpoints at Day 7, Day 14, and Day 28.
+- Offer a small incentive (e.g., free delivery or 5% off) to encourage the second purchase.
+
+**Expected Impact**
+Higher Month‑1 retention, reducing the number of customers entering the churn pipeline.
+
+#### 2. Target High‑Value “Churn At‑Risk” Customers (Recency 31–60 Days)
+These customers are still recoverable with timely intervention.
+
+**Actions**
+- Trigger automated alerts when a high‑value customer reaches **31 days of inactivity**.
+- Send a personalised re‑engagement offer (e.g., discount on their favourite category).
+- Use SMS or WhatsApp for higher visibility and faster response.
+- Add a “We Miss You” Message with a clear call-to-action
+  
+**Expected Impact**
+Prevents profitable customers from slipping into long‑term inactivity.
+
+#### 3. Win Back Recently Lapsed Customers (Recency > 60 Days)
+This group is the most responsive to reactivation efforts and offers quick retention gains.
+
+**Actions**
+- Launch a structured Win‑Back Campaign featuring:
+  - personalised product bundles  
+  - limited‑time offers  
+  - reminders based on browsing or purchase history  
+- Use A/B testing to identify the most effective incentive.
+- Highlight new arrivals or best‑selling items to spark interest.
+
+**Expected Impact**  
+Immediate uplift in retention and a measurable reduction in churn.
+
+---
+
+### 8.4 Product Performance: Category Level
+
+#### 1. Protect and Strengthen Core Categories (Seafood, Household & Misc)
+These categories are essential revenue drivers and require consistent performance management.
+
+**Actions**
+- Review pricing and margin performance to maintain competitiveness without eroding profitability.
+- Prioritise these categories in promotions, merchandising, and store placement.
+
+**Expected Outcome**  
+Stabilised revenue performance and reduced risk exposure from over‑dependence on core categories.
+
+#### 2. Leverage Fruits & Vegetables as a High‑Volume Support Category
+This category significantly contributes to customer traffic and basket size.
+
+**Actions**
+- Use Fruits & Vegetables as a cross‑sell anchor to increase basket value.
+
+**Expected Impact**  
+Higher basket value and improved cross‑category sales uplift.
+
+---
+
+### 8.5 Product Performance: Product Level
+
+#### 1. Protect and Prioritise A‑Class Products (Top 80%)
+These products are core revenue drivers and must be treated as high‑priority SKUs.
+
+**Actions**
+- Maintain high stock availability.
+- Ensure price stability to avoid demand disruption.
+
+**Expected Impact**  
+Stable and predictable revenue performance.
+
+#### 2. Leverage B‑Class Products for Cross‑Sell and Basket Growth
+These products support incremental revenue and can be used to increase basket size.
+
+#### 3. Rationalise C‑Class Products to Improve Efficiency
+Low‑impact SKUs should be streamlined to reduce operational complexity and free up shelf space.
+
+---
+
+### 8.6 Inventory Optimisation
+
+#### 1. Product A — Core Revenue Drivers (Top 70–80% of Sales)
+- Maintain near‑perfect availability and increase safety stock to avoid lost sales.
+
+#### 2. Category B — Supporting Categories (Next 15–20% of Sales)
+- Maintain good availability and use cross‑sell insights to maximise value.
+
+#### 3. Category C — Long‑Tail, Low‑Impact Categories (Bottom 5% of Sales)
+- Adopt lean inventory levels and reduce SKU depth to improve efficiency.
 
