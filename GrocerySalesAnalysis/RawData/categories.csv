@@ -1,0 +1,14 @@
+CategoryID,CategoryName,Department
+1,Confections,Pantry & Snacks
+2,Cereals & Grains,Pantry & Snacks
+3,Pantry & Spices,Pantry & Snacks
+4,Dairy,Fresh & Perishables
+5,Fruits & Vegetables,Fresh & Perishables
+6,Seafood,Fresh & Perishables
+7,Meat,Fresh & Perishables
+8,Beverages,Beverages & Alcohol
+9,Poultry,Fresh & Perishables
+10,Household & Misc,Household & Misc
+11,Spirit,Beverages & Alcohol
+12,Beer,Beverages & Alcohol
+13,Wine,Beverages & Alcohol
