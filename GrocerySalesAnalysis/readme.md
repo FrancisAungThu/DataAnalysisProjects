@@ -62,7 +62,7 @@ The goal is to provide actionable insights that improve retention, profitability
 
 ### Monthly Sales Trend</h2>
 
-![Monthly Sales Trend](Assets/1.jpg)
+![Monthly Sales Trend](Assets/1.png)
 
 ### High‑value and high‑risk customer segments 
 
