@@ -261,3 +261,22 @@ Actions:
 •	Cross-sell bundles
 
 ![Market Basket Analysis](Assets/13.png)
+
+
+## 8. How to Reproduce
+1.	Raw Data Folder – Use the sample datasets provided and load them into your database.
+   
+2.	Python File – Run the Python scripts to clean and prepare the data, then import the processed files back into the database.
+   
+3.	SQL File – Use the SQL scripts to run the analysis and generate the key insights.
+   
+4.	Power BI File – Open Grocery_Analysis_v1.pbix to explore the interactive dashboards and final visual report.
+
+## 9.Limitations and Next Steps
+•	Limitations: The dataset lacks competitor pricing data, which limits the accuracy of the price optimization model.
+
+•	Next Steps: Incorporate a Machine Learning model (Python) to predict "Next Purchase Date" for personalized email marketing triggers.
+
+•	A/B testing:  Running this pricing strategy in 5 'Test' stores while keeping 'Control' prices in 5 other stores for one month to validate if the Predicted Quantity matches reality before a nationwide rollout
+
+
