@@ -20,10 +20,10 @@
 ## 1 Executive Summary
 This project shows how data can help a grocery store understand its customers better and make smarter decisions about products and pricing. I built a three‑dimensional customer segmentation model using RFM, profitability, and price sensitivity to see who shops most often, who brings the most value, and who responds well to promotions. I also analysed product performance across the store, including sales, margins, buying patterns, market basket behaviour, and optimal pricing. Together, these insights highlight which customers matter most, which products drive value, and where pricing changes can boost both revenue and footfall. One clear example is **Raisin Muffins**: treating them as a flagship product and investing in their price can increase visits and basket size. Combined with better inventory planning, stronger retention, and targeted win‑back strategies, the store can grow revenue more effectively.
 
-## 2.Dataset Summary
+## 2 Dataset Summary
 This grocery store dataset contains multiple linked tables covering sales, customers, products, and employees from Jan 2023 to Dec 2024. 
 
-## 3.Business Problem, Objectives & Scope
+## 3 Business Problem, Objectives & Scope
 ### Business Problem
 Grocery retailer often struggle to make data-driven decisions about customer retention, product strategy, and pricing. Without a clear understanding of customer behaviour, sentiment, and product performance, the business faces challenges such as:
 
@@ -59,7 +59,7 @@ The goal is to provide actionable insights that improve retention, profitability
 
 **Power BI** — Used to visualise customer segments, product performance, and pricing insights in an interactive dashboard
 
-## 4. Analytics & Insights
+## 4 Analytics & Insights
 
 ### Monthly Sales Trend</h2>
 
@@ -137,7 +137,7 @@ Sauerkraut’s penetration is 8.6% lower than Red Lentils, yet it generates roug
 Because this product appears in so many baskets, the margin reduction isn’t a loss; it’s a deliberate investment in traffic and basket growth. Customers who buy Raisin Muffins tend to buy other items alongside them, so increasing muffin volume increases overall store revenue, not just sales of the product itself. A small, controlled price adjustment on a high‑penetration item becomes a way to drive more visits, larger baskets, and stronger customer engagement across categories.
 
 
-## 5. Recommendations
+## 5 Recommendation
 
 ### 5.1 Invest in Pastry — Raisin Muffin as the Store’s Flagship Product
 **Raisin Muffins** are a high‑velocity, high‑basket product. A small **9.3% price reduction** unlocks a **53% volume lift** at a cost of just **£65.96**, making this a high‑leverage pricing decision. Treating Raisin Muffins as a flagship product can increase store traffic, grow basket size, and lift overall revenue.
@@ -263,7 +263,7 @@ Actions:
 ![Market Basket Analysis](Assets/13.png)
 
 
-## 6. How to Reproduce
+## 6 How to Reproduce
 1.	Raw Data Folder – Use the sample datasets provided and load them into your database.
    
 2.	Python File – Run the Python scripts to clean and prepare the data, then import the processed files back into the database.
@@ -272,7 +272,7 @@ Actions:
    
 4.	Power BI File – Open Grocery_Analysis_v1.pbix to explore the interactive dashboards and final visual report.
 
-## 7.Limitations and Next Steps
+## 7 Limitations and Next Steps
 •	Limitations: The dataset lacks competitor pricing data, which limits the accuracy of the price optimization model.
 
 •	Next Steps: Incorporate a Machine Learning model (Python) to predict "Next Purchase Date" for personalized email marketing triggers.
