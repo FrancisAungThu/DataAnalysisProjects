@@ -13,6 +13,8 @@
 - [Business Problem, Objectives & Scope](#business-problem-objectives--scope)
 - [Analytics & Insights](#analytics--insights)
 - [Recommendation](#recommendation)
+- [How to Reproduce](#how-to-reproduce)
+- [Limitations and Next Steps](#limitations-and-next-steps)
 
 
 ## 1. Executive Summary
@@ -246,4 +248,16 @@ Low‑impact SKUs should be streamlined to reduce operational complexity and fre
 
 The ABC structure makes it clear that inventory investment should not be evenly distributed. Category A requires protection and precision, Category B requires balance, and Category C requires discipline. Optimising inventory along these lines improves service levels where it matters most, reduces waste where it matters least, and strengthens both profitability and operational efficiency. **Not all products deserve equal investment**.
 
+### 8.7 Grow Penetration of High Value Opportunity Products
+#### Position Sauerkraut as a Priority Growth Product
+Sauerkraut shows 8.6% lower penetration than Red Lentils but generates around 50% more revenue, meaning each buyer spends more or buys more frequently. This makes it a high value item with strong upside potential if more customers adopt it. However, **promoting Sauerkraut wouldn’t complement many other products based on the market basket analysis.** 
 
+Actions: 
+
+•	Increase visibility
+
+•	Targeted promotions
+
+•	Cross-sell bundles
+
+![Market Basket Analysis](Assets/13.png)
