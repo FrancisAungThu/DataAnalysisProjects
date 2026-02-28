@@ -15,11 +15,11 @@
   
     -[Monthly Sales Trend](#41-monthly-sales-trend)
 
-    -[High‑value and high‑risk customer segments](#42-high-value-and-high-risk-customer-segments)
+    -[High-value and high-risk customer segments](#42-high-value-and-high-risk-customer-segments)
 
     -[Reduce customer churn by 5% within 12 months](#43-reduce-customer-churn-by-5-within-12-months)
 
-    -[Product Performance](44-product-performance)
+    -[Product Performance](#44-product-performance)
   
 - [Recommendation](#5-recommendation)
 - [How to Reproduce](#6-how-to-reproduce)
@@ -75,7 +75,7 @@ The goal is to provide actionable insights that improve retention, profitability
 ![Monthly Sales Trend](Assets/1.png)
 ![Monthly Sales Trend](Assets/MonthlySales.png)
 
-### 4.2 High‑value and high‑risk customer segments 
+### 4.2 High-value and high-risk customer segments
 
 ![High‑value and high‑risk customer segments](Assets/2.png)
 
@@ -156,54 +156,17 @@ Because this product appears in so many baskets, the margin reduction isn’t a 
 ### 5.2 Strengthen Retention for High‑Value Customer Segments
 High‑value customers drive a disproportionate share of revenue and require proactive retention.
 
-**Actions**
-- Build personalised retention journeys for the top three customer segments.
-- Trigger alerts when high‑value customers reach **30+ days of inactivity**.
-- Deploy targeted win‑back campaigns within the **31–60 day** window.
-
-**Expected Impact**
-- Lower churn among the most profitable customers.
-- Higher repeat purchase frequency.
-- Improved customer lifetime value.
-- Direct contribution to the goal of **reducing churn by 5% within 12 months**.
 ---
 ### 5.3 Churn Reduction Action Plan
 
 #### 1. Strengthen Early‑Stage Retention (First 30 Days)
 Customers who do not return within the first month represent the largest source of churn.
 
-**Actions**
-- Create a structured **New Customer Pathway** with touchpoints at Day 7, Day 14, and Day 28.
-- Offer a small incentive (e.g., free delivery or 5% off) to encourage the second purchase.
-
-**Expected Impact**
-Higher Month‑1 retention, reducing the number of customers entering the churn pipeline.
-
 #### 2. Target High‑Value “Churn At‑Risk” Customers (Recency 31–60 Days)
 These customers are still recoverable with timely intervention.
 
-**Actions**
-- Trigger automated alerts when a high‑value customer reaches **31 days of inactivity**.
-- Send a personalised re‑engagement offer (e.g., discount on their favourite category).
-- Use SMS or WhatsApp for higher visibility and faster response.
-- Add a “We Miss You” Message with a clear call-to-action
-  
-**Expected Impact**
-Prevents profitable customers from slipping into long‑term inactivity.
-
 #### 3. Win Back Recently Lapsed Customers (Recency > 60 Days)
 This group is the most responsive to reactivation efforts and offers quick retention gains.
-
-**Actions**
-- Launch a structured Win‑Back Campaign featuring:
-  - personalised product bundles  
-  - limited‑time offers  
-  - reminders based on browsing or purchase history  
-- Use A/B testing to identify the most effective incentive.
-- Highlight new arrivals or best‑selling items to spark interest.
-
-**Expected Impact**  
-Immediate uplift in retention and a measurable reduction in churn.
 
 ---
 
@@ -212,21 +175,8 @@ Immediate uplift in retention and a measurable reduction in churn.
 #### 1. Protect and Strengthen Core Categories (Seafood, Household & Misc)
 These categories are essential revenue drivers and require consistent performance management.
 
-**Actions**
-- Review pricing and margin performance to maintain competitiveness without eroding profitability.
-- Prioritise these categories in promotions, merchandising, and store placement.
-
-**Expected Outcome**  
-Stabilised revenue performance and reduced risk exposure from over‑dependence on core categories.
-
 #### 2. Leverage Fruits & Vegetables as a High‑Volume Support Category
 This category significantly contributes to customer traffic and basket size.
-
-**Actions**
-- Use Fruits & Vegetables as a cross‑sell anchor to increase basket value.
-
-**Expected Impact**  
-Higher basket value and improved cross‑category sales uplift.
 
 ---
 
@@ -234,13 +184,6 @@ Higher basket value and improved cross‑category sales uplift.
 
 #### 1. Protect and Prioritise A‑Class Products (Top 80%)
 These products are core revenue drivers and must be treated as high‑priority SKUs.
-
-**Actions**
-- Maintain high stock availability.
-- Ensure price stability to avoid demand disruption.
-
-**Expected Impact**  
-Stable and predictable revenue performance.
 
 #### 2. Leverage B‑Class Products for Cross‑Sell and Basket Growth
 These products support incremental revenue and can be used to increase basket size.
@@ -260,17 +203,7 @@ The ABC structure makes it clear that inventory investment should not be evenly 
 ### 8.7 Grow Penetration of High Value Opportunity Products
 #### Position Sauerkraut as a Priority Growth Product
 Sauerkraut shows 8.6% lower penetration than Red Lentils but generates around 50% more revenue, meaning each buyer spends more or buys more frequently. This makes it a high value item with strong upside potential if more customers adopt it. However, **promoting Sauerkraut wouldn’t complement many other products based on the market basket analysis.** 
-
-Actions: 
-
-•	Increase visibility
-
-•	Targeted promotions
-
-•	Cross-sell bundles
-
 ![Market Basket Analysis](Assets/13.png)
-
 
 ## 6 How to Reproduce
 1.	Raw Data Folder – Use the sample datasets provided and load them into your database.
