@@ -12,7 +12,6 @@
 - [Dataset Summary](#dataset-summary)
 - [Business Problem, Objectives & Scope](#business-problem-objectives--scope)
 - [Analytics & Insights](#analytics--insights)
-- [Hypothesis Testing](#hypothesis-testing)
 - [Recommendation](#recommendation)
 
 
@@ -113,12 +112,6 @@ This distribution highlights three strategic priorities:
 ![Product Category Performance](Assets/7.png)
 
 Product performance analysis ordered by sales contribution reveals a highly concentrated revenue structure. A tier products account for the majority of total sales and represent the core assortment that drives business performance. B tier products provide essential support by increasing basket size and enabling cross sell opportunities. C tier products contribute minimally and represent candidates for SKU rationalisation. This ABC classification provides a clear roadmap for inventory optimisation, pricing strategy, and promotional prioritisation.
-
-#### 📦 Inventory Planning:  Prioritise Items ABC Classification
-
-![Inventory Planning](Assets/8.png)
-
-The ABC structure makes it clear that inventory investment should not be evenly distributed. Category A requires protection and precision, Category B requires balance, and Category C requires discipline. Optimising inventory along these lines improves service levels where it matters most, reduces waste where it matters least, and strengthens both profitability and operational efficiency. **Not all products deserve equal investment**.
 
 #### Product Affinity: Top Segment (Premium Bargain Hunter)
 
@@ -247,13 +240,10 @@ Low‑impact SKUs should be streamlined to reduce operational complexity and fre
 ---
 
 ### 8.6 Inventory Optimisation
+#### 📦 Inventory Planning:  Prioritise Items ABC Classification
 
-#### 1. Product A — Core Revenue Drivers (Top 70–80% of Sales)
-- Maintain near‑perfect availability and increase safety stock to avoid lost sales.
+![Inventory Planning](Assets/8.png)
 
-#### 2. Category B — Supporting Categories (Next 15–20% of Sales)
-- Maintain good availability and use cross‑sell insights to maximise value.
+The ABC structure makes it clear that inventory investment should not be evenly distributed. Category A requires protection and precision, Category B requires balance, and Category C requires discipline. Optimising inventory along these lines improves service levels where it matters most, reduces waste where it matters least, and strengthens both profitability and operational efficiency. **Not all products deserve equal investment**.
 
-#### 3. Category C — Long‑Tail, Low‑Impact Categories (Bottom 5% of Sales)
-- Adopt lean inventory levels and reduce SKU depth to improve efficiency.
 
