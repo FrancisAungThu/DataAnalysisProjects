@@ -20,6 +20,10 @@
     -[Reduce customer churn by 5% within 12 months](#43-reduce-customer-churn-by-5-within-12-months)
 
     -[Product Performance](#44-product-performance)
+
+    -[Price Sensitivity Simulation](#price-sensitivity-simuluation)
+
+    -[MarketBasketAnalysis](#market-basket-analysis)
   
 - [Recommendation](#5-recommendation)
 - [How to Reproduce](#6-how-to-reproduce)
@@ -136,7 +140,7 @@ Product affinity analysis for the Premium Bargain Hunter segment highlights a sm
 
 Sauerkraut’s penetration is 8.6% lower than Red Lentils, yet it generates roughly 50% more revenue. This indicates a high value product with strong spending behaviour among existing buyers. Because of this imbalance—low reach but high revenue—Sauerkraut represents a clear opportunity to increase penetration and drive incremental profit for the store.
 
-###  Price Sensitivity Simulation
+### Price Sensitivity Simulation
 ![Product Penetration](Assets/11.png)
 
 ### Market Basket Analysis
