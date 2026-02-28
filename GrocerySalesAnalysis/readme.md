@@ -21,9 +21,9 @@
 
     -[Product Performance](#44-product-performance)
 
-    -[Price Sensitivity Simulation](#price-sensitivity-simulation)
+    -[Price Sensitivity Simulation](#45-price-sensitivity-simulation)
 
-    -[Market Basket Analysis](#market-basket-analysis)
+    -[Market Basket Analysis](#46-market-basket-analysis)
   
 - [Recommendation](#5-recommendation)
 - [How to Reproduce](#6-how-to-reproduce)
@@ -140,10 +140,10 @@ Product affinity analysis for the Premium Bargain Hunter segment highlights a sm
 
 Sauerkraut’s penetration is 8.6% lower than Red Lentils, yet it generates roughly 50% more revenue. This indicates a high value product with strong spending behaviour among existing buyers. Because of this imbalance—low reach but high revenue—Sauerkraut represents a clear opportunity to increase penetration and drive incremental profit for the store.
 
-### Price Sensitivity Simulation
+### 4.5 Price Sensitivity Simulation
 ![Product Penetration](Assets/11.png)
 
-### Market Basket Analysis
+### 4.6 Market Basket Analysis
 ![Product Penetration](Assets/12.png)
 
 **Pastry – Raisin Muffin** stands out as a high‑velocity product: it represents only 1.41% of sales value but nearly 57% of total units sold, making it one of the strongest volume drivers in the store. Price‑elasticity modelling shows that a 9.3% price reduction would lift demand by 53%, adding roughly 17,237 extra units. The cost of doing so is very small—only £65.96 in margin.
