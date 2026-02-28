@@ -12,6 +12,8 @@
 - [Dataset Summary](#2-dataset-summary)
 - [Business Problem, Objectives & Scope](#3-business-problem-objectives--scope)
 - [Analytics & Insights](#4-analytics--insights)
+  
+    -[Monthly Sales Trend](#41-monthly-sales-trend)
 - [Recommendation](#5-recommendation)
 - [How to Reproduce](#6-how-to-reproduce)
 - [Limitations and Next Steps](#7-limitations-and-next-steps)
@@ -61,7 +63,7 @@ The goal is to provide actionable insights that improve retention, profitability
 
 ## 4 Analytics & Insights
 
-### Monthly Sales Trend</h2>
+### 4.1 Monthly Sales Trend</h2>
 
 ![Monthly Sales Trend](Assets/1.png)
 ![Monthly Sales Trend](Assets/MonthlySales.png)
