@@ -8,13 +8,13 @@
 
 
 ## Table of Contents
-- [Executive Summary](#executive-summary)
-- [Dataset Summary](#dataset-summary)
-- [Business Problem, Objectives & Scope](#business-problem-objectives--scope)
-- [Analytics & Insights](#analytics--insights)
-- [Recommendation](#recommendation)
-- [How to Reproduce](#how-to-reproduce)
-- [Limitations and Next Steps](#limitations-and-next-steps)
+- [Executive Summary](#1-executive-summary)
+- [Dataset Summary](#2-dataset-summary)
+- [Business Problem, Objectives & Scope](#3-business-problem-objectives--scope)
+- [Analytics & Insights](#4-analytics--insights)
+- [Recommendation](#5-recommendation)
+- [How to Reproduce](#6-how-to-reproduce)
+- [Limitations and Next Steps](#7-limitations-and-next-steps)
 
 
 ## 1. Executive Summary
@@ -59,7 +59,7 @@ The goal is to provide actionable insights that improve retention, profitability
 
 **Power BI** — Used to visualise customer segments, product performance, and pricing insights in an interactive dashboard
 
-## Analytics & Insights
+## 4. Analytics & Insights
 
 ### Monthly Sales Trend</h2>
 
@@ -137,14 +137,14 @@ Sauerkraut’s penetration is 8.6% lower than Red Lentils, yet it generates roug
 Because this product appears in so many baskets, the margin reduction isn’t a loss; it’s a deliberate investment in traffic and basket growth. Customers who buy Raisin Muffins tend to buy other items alongside them, so increasing muffin volume increases overall store revenue, not just sales of the product itself. A small, controlled price adjustment on a high‑penetration item becomes a way to drive more visits, larger baskets, and stronger customer engagement across categories.
 
 
-## 8. Recommendations
+## 5. Recommendations
 
-### 8.1 Invest in Pastry — Raisin Muffin as the Store’s Flagship Product
+### 5.1 Invest in Pastry — Raisin Muffin as the Store’s Flagship Product
 **Raisin Muffins** are a high‑velocity, high‑basket product. A small **9.3% price reduction** unlocks a **53% volume lift** at a cost of just **£65.96**, making this a high‑leverage pricing decision. Treating Raisin Muffins as a flagship product can increase store traffic, grow basket size, and lift overall revenue.
 
 ---
 
-### 8.2 Strengthen Retention for High‑Value Customer Segments
+### 5.2 Strengthen Retention for High‑Value Customer Segments
 High‑value customers drive a disproportionate share of revenue and require proactive retention.
 
 **Actions**
@@ -158,7 +158,7 @@ High‑value customers drive a disproportionate share of revenue and require pro
 - Improved customer lifetime value.
 - Direct contribution to the goal of **reducing churn by 5% within 12 months**.
 ---
-### 8.3 Churn Reduction Action Plan
+### 5.3 Churn Reduction Action Plan
 
 #### 1. Strengthen Early‑Stage Retention (First 30 Days)
 Customers who do not return within the first month represent the largest source of churn.
@@ -198,7 +198,7 @@ Immediate uplift in retention and a measurable reduction in churn.
 
 ---
 
-### 8.4 Product Performance: Category Level
+### 5.4 Product Performance: Category Level
 
 #### 1. Protect and Strengthen Core Categories (Seafood, Household & Misc)
 These categories are essential revenue drivers and require consistent performance management.
@@ -221,7 +221,7 @@ Higher basket value and improved cross‑category sales uplift.
 
 ---
 
-### 8.5 Product Performance: Product Level
+### 5.5 Product Performance: Product Level
 
 #### 1. Protect and Prioritise A‑Class Products (Top 80%)
 These products are core revenue drivers and must be treated as high‑priority SKUs.
@@ -241,7 +241,7 @@ Low‑impact SKUs should be streamlined to reduce operational complexity and fre
 
 ---
 
-### 8.6 Inventory Optimisation
+### 5.6 Inventory Optimisation
 #### 📦 Inventory Planning:  Prioritise Items ABC Classification
 
 ![Inventory Planning](Assets/8.png)
@@ -263,7 +263,7 @@ Actions:
 ![Market Basket Analysis](Assets/13.png)
 
 
-## 8. How to Reproduce
+## 6. How to Reproduce
 1.	Raw Data Folder – Use the sample datasets provided and load them into your database.
    
 2.	Python File – Run the Python scripts to clean and prepare the data, then import the processed files back into the database.
@@ -272,7 +272,7 @@ Actions:
    
 4.	Power BI File – Open Grocery_Analysis_v1.pbix to explore the interactive dashboards and final visual report.
 
-## 9.Limitations and Next Steps
+## 7.Limitations and Next Steps
 •	Limitations: The dataset lacks competitor pricing data, which limits the accuracy of the price optimization model.
 
 •	Next Steps: Incorporate a Machine Learning model (Python) to predict "Next Purchase Date" for personalized email marketing triggers.
