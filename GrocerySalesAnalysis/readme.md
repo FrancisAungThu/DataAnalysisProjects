@@ -21,9 +21,9 @@
 
     -[Product Performance](#44-product-performance)
 
-    -[Price Sensitivity Simulation](#price-sensitivity-simuluation)
+    -[Price Sensitivity Simulation](#price-sensitivity-simulation)
 
-    -[MarketBasketAnalysis](#market-basket-analysis)
+    -[Market Basket Analysis](#market-basket-analysis)
   
 - [Recommendation](#5-recommendation)
 - [How to Reproduce](#6-how-to-reproduce)
