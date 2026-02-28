@@ -14,6 +14,13 @@
 - [Analytics & Insights](#4-analytics--insights)
   
     -[Monthly Sales Trend](#41-monthly-sales-trend)
+
+    -[High‑value and high‑risk customer segments](#42-high-value-and-high-risk-customer-segments)
+
+    -[Reduce customer churn by 5% within 12 months](#43-reduce-customer-churn-by-5-within-12-months)
+
+    -[Product Performance](44-product-performance)
+  
 - [Recommendation](#5-recommendation)
 - [How to Reproduce](#6-how-to-reproduce)
 - [Limitations and Next Steps](#7-limitations-and-next-steps)
@@ -68,14 +75,14 @@ The goal is to provide actionable insights that improve retention, profitability
 ![Monthly Sales Trend](Assets/1.png)
 ![Monthly Sales Trend](Assets/MonthlySales.png)
 
-### High‑value and high‑risk customer segments 
+### 4.2  High‑value and high‑risk customer segments 
 
 ![High‑value and high‑risk customer segments](Assets/2.png)
 
 Across all customer segments, Premium Bargain Hunter, Value Conscious VIP, and High Value Promo Churn Risk customers represent only 32% of the total customer base, yet they generate an exceptional 98% of total company profit.
 This confirms a strong Pareto effect: a small group of high value customers drives nearly all profitability.
 
-### Reduce customer churn by 5% within 12 months 
+### 4.3 Reduce customer churn by 5% within 12 months 
 
 ### 📉 Monthly Retention Rate
 
@@ -129,10 +136,10 @@ Product affinity analysis for the Premium Bargain Hunter segment highlights a sm
 
 Sauerkraut’s penetration is 8.6% lower than Red Lentils, yet it generates roughly 50% more revenue. This indicates a high value product with strong spending behaviour among existing buyers. Because of this imbalance—low reach but high revenue—Sauerkraut represents a clear opportunity to increase penetration and drive incremental profit for the store.
 
-####  Price Sensitivity Simulation
+###  Price Sensitivity Simulation
 ![Product Penetration](Assets/11.png)
 
-#### Market Basket Analysis
+### Market Basket Analysis
 ![Product Penetration](Assets/12.png)
 
 **Pastry – Raisin Muffin** stands out as a high‑velocity product: it represents only 1.41% of sales value but nearly 57% of total units sold, making it one of the strongest volume drivers in the store. Price‑elasticity modelling shows that a 9.3% price reduction would lift demand by 53%, adding roughly 17,237 extra units. The cost of doing so is very small—only £65.96 in margin.
