@@ -75,7 +75,7 @@ The goal is to provide actionable insights that improve retention, profitability
 ![Monthly Sales Trend](Assets/1.png)
 ![Monthly Sales Trend](Assets/MonthlySales.png)
 
-### 4.2  High‑value and high‑risk customer segments 
+### 4.2 High‑value and high‑risk customer segments 
 
 ![High‑value and high‑risk customer segments](Assets/2.png)
 
@@ -107,7 +107,7 @@ These customers represent the quickest opportunity to lift retention and reduce 
 
 Together, these insights provide a clear roadmap for targeted interventions that can meaningfully contribute to the goal of reducing churn by 5% within 12 months.
 
-### Product Performance 
+### 4.4 Product Performance 
 
 #### Product Category Performance
 ![Product Category Performance](Assets/6.png)
