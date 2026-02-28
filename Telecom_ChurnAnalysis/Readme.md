@@ -8,7 +8,7 @@
 - [Executive Summary](#executive-summary)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Hypothesis Testing](#hypothesis-testing)
-- [Recommendation](#recommendation)
+- [Recommendations](#recommendations)
 
 ## Project Background
 
