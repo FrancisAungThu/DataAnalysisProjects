@@ -70,7 +70,7 @@ The goal is to provide actionable insights that improve retention, profitability
 
 **SQL** — Used to perform exploratory analysis and extract key behavioural and transactional insights
 
-**Power BI** — Used to visualise customer segments, product performance, and pricing insights in an interactive dashboard
+**Power BI** — Used to visualise Monthly Sales Intelligence in an interactive dashboard
 
 ## 4 Analytics & Insights
 
@@ -216,7 +216,7 @@ Sauerkraut shows 8.6% lower penetration than Red Lentils but generates around 50
    
 3.	SQL File – Use the SQL scripts to run the analysis and generate the key insights.
    
-4.	Power BI File – Open Grocery_Analysis_v1.pbix to explore the interactive dashboards and final visual report.
+4.	Power BI File – Open Grocery_Analysis_v1.pbix to explore the Monthly Sales Intelligence interactive dashboards.
 
 ## 7 Limitations and Next Steps
 •	Limitations: The dataset lacks competitor pricing data, which limits the accuracy of the price optimization model.
