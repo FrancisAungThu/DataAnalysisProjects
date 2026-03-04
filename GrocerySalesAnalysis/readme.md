@@ -204,12 +204,16 @@ Low‑impact SKUs should be streamlined to reduce operational complexity and fre
 
 The ABC structure makes it clear that inventory investment should not be evenly distributed. Category A requires protection and precision, Category B requires balance, and Category C requires discipline. Optimising inventory along these lines improves service levels where it matters most, reduces waste where it matters least, and strengthens both profitability and operational efficiency. **Not all products deserve equal investment**.
 
-### 8.7 Grow Penetration of High Value Opportunity Products
+### 5.7 Grow Penetration of High Value Opportunity Products
 #### Position Sauerkraut as a Priority Growth Product
 Sauerkraut shows 8.6% lower penetration than Red Lentils but generates around 50% more revenue, meaning each buyer spends more or buys more frequently. This makes it a high value item with strong upside potential if more customers adopt it. However, **promoting Sauerkraut wouldn’t complement many other products based on the market basket analysis.** 
 ![Market Basket Analysis](Assets/13.png)
 
-## 6 How to Reproduce
+## 6 Monthly Sales Intelligence - PowerBI Dashboard
+![Market Basket Analysis](Assets/PowerBI.png)
+
+
+## 7 How to Reproduce
 1.	Raw Data Folder – Use the sample datasets provided and load them into your database.
    
 2.	Python File – Run the Python scripts to clean and prepare the data, then import the processed files back into the database.
@@ -218,7 +222,7 @@ Sauerkraut shows 8.6% lower penetration than Red Lentils but generates around 50
    
 4.	Power BI File – Open Grocery_Analysis_v1.pbix to explore the Monthly Sales Intelligence interactive dashboards.
 
-## 7 Limitations and Next Steps
+## 8 Limitations and Next Steps
 •	Limitations: The dataset lacks competitor pricing data, which limits the accuracy of the price optimization model.
 
 •	Next Steps: Incorporate a Machine Learning model (Python) to predict "Next Purchase Date" for personalized email marketing triggers.
